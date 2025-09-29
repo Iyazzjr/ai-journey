@@ -1,12 +1,60 @@
-.venv/
+# ---- Python ----
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-data/
-models/
+*.pyo
+*.pyd
+*.pkl
+*.h5
+*.ipynb_checkpoints/
+
+# ---- Virtual environments ----
 .venv/
-__pycache__/
-*.pyc
+env/
+venv/
+
+# ---- Jupyter Notebook ----
 .ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ---- Logs & temp files ----
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# ---- Data files ----
 data/
-models/
+datasets/
+*.csv
+*.tsv
+*.json
+*.parquet
+
+# ---- Images & videos ----
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# ---- Model files ----
+*.pt
+*.pth
+*.onnx
+*.pb
+*.ckpt
+
+# ---- Outputs ----
+results/
+outputs/
+*.out
+*.npz
+*.npy
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.code-workspace
