@@ -1,15 +1,9 @@
-name = "Iyazz"
-print("My name is", name)
+fruits = ["apple", "cherry", "egg"]
+print(fruits[0])
+print(fruits[-1])
 
-x, y = 7, 12
-print("Before swap:", x, y)
-x, y = y, x
-print("After swap:", x, y)
+fruits.append("orange")
+print(fruits)
 
-t = int(input("enter first number:"))
-p = int(input("enter second number:"))
-print("sum: ", t + p)
-print("difference: ", t - p)
-print("product: ", t * p)
-print("Quotient: ", t / p)
-
+fruits[0] = "rasberry"
+print(fruits)
