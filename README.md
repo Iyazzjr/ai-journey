@@ -47,9 +47,11 @@ The repo serves as both a **learning log** and a **portfolio**, showcasing my we
 
 ## 🎯 Goals  
 
-- Gain high-paying AI/ML employment opportunities  
-- Build strong technical + business skills  
-- Launch and scale my own AI company 🚀  
+- Develop deep technical expertise in Artificial Intelligence, Machine Learning, and Data Science.  
+- Apply AI/ML to solve real-world challenges in robotics, automation, and intelligent systems.  
+- Build a strong foundation in software engineering best practices (clean code, version control, testing, deployment).  
+- Contribute to impactful AI projects in industry or research environments.  
+- Continuously grow into advanced roles such as **AI/ML Engineer, Research Engineer, or Applied Scientist**. 
 
 ---
 
