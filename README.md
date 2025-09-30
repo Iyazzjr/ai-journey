@@ -1,5 +1,13 @@
 # 🚀 AI Journey: From Beginner to Expert  
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)  
+![Learning AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen?logo=openai)  
+![Progress](https://img.shields.io/badge/Progress-2%2F16%20Weeks-yellow)  
+![Status](https://img.shields.io/badge/Status-Active-success)  
+![License](https://img.shields.io/badge/License-MIT-blue)  
+
+---
+
 This repository documents my step-by-step journey into **Artificial Intelligence (AI)**, starting with zero coding experience and progressing to building advanced AI/ML projects.  
 
 The repo serves as both a **learning log** and a **portfolio**, showcasing my weekly progress over 16 weeks.  
