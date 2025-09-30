@@ -4,7 +4,7 @@
 ![Learning AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen?logo=openai)  
 ![Progress](https://img.shields.io/badge/Progress-2%2F16%20Weeks-yellow)  
 ![Status](https://img.shields.io/badge/Status-Active-success)  
-![License](https://img.shields.io/badge/License-MIT-blue)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
